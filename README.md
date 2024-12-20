@@ -49,4 +49,4 @@ Below, you can find all the repositories of the projects I have participated in 
   - Similar to the Trivial game, I was in charge of implementing the database.
  
 ## Other Repositories 🤩
-- 🕹️ **[Own Game Engine with C++ and Space Invaders recreation]([https://github.com/CarlosEscribanoGonzalez/Space-Invaders])** 🕹️: This repository showcase our own implementation of a 3D videogame engine done with C++. The arcade game Space Invaders was recreated using this engine. This proyect was made by Marcos De Ozaeta, Carlos Escribano and Cristina Valero.
+- 🕹️ **[Own Game Engine with C++ and Space Invaders recreation](https://github.com/CarlosEscribanoGonzalez/Space-Invaders)** 🕹️: This repository showcase our own implementation of a 3D videogame engine done with C++. The arcade game Space Invaders was recreated using this engine. This proyect was made by Marcos De Ozaeta, Carlos Escribano and Cristina Valero.
